@@ -23,13 +23,13 @@
         <repository>
             <id>nexus</id>
             <name>sonarqube-maven-example</name>
-            <url>http://13.212.151.124:8081/repository/Maven-Web-Applicaton-Release</url>
+            <url>http://54.179.22.75:8081/repository/Maven-Web-Applicaton-Release</url>
         </repository>
 
         <snapshotRepository>
             <id>nexus</id>
             <name>sonarqube-maven-example</name>
-            <url>http://13.212.151.124:8081/repository/Maven-Web-Appliction-Sanpshot/</url>
+            <url>http://54.179.22.75:8081/repository/Maven-Web-Appliction-Sanpshot/</url>
         </snapshotRepository>
     </distributionManagement>
 
